@@ -1,2 +1,8 @@
 /jupEnv
 /data
+testing.py
+/.ipynb_*
+Dice_Classification.ipynb
+ProjectPractice.ipynb
+CNN_Practice.ipynb
+MobleNetClassification.ipynb

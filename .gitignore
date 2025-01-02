@@ -2,7 +2,9 @@
 /data
 testing.py
 /.ipynb_*
+!.ipynb_checkpoints/DiceType*
 Dice_Classification.ipynb
 ProjectPractice.ipynb
 CNN_Practice.ipynb
 MobleNetClassification.ipynb
+WidgetPractice.ipynb

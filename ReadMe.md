@@ -7,8 +7,10 @@ This is a small machine learning applicaiton for the WGU C964 capstone project. 
 Requirements:
 
 -  Windows 10 or 11 computer
-- [Python](https://www.python.org/downloads/) 3.9 or later 
+- [Python](https://www.python.org/downloads) 3.9-3.10
 - [Git](https://git-scm.com/downloads) or you can download and extract the zip
+- https://visualstudio.microsoft.com/visual-cpp-build-tools/
+
 
 ___
 
@@ -21,8 +23,10 @@ git clone https://github.com/EnjoySkyBlue/C964_Dice_Project.git
 ```
 
 ### 2. Once you're in your command prompt, navigate to the project folder and create a virtual enviroment using the commands below. this may take a few seconds
+
+
 ```bash
-cd C964_Dice_Project
+cd C964_Dice_Project #to navigate to the project folder
 ```
 
 ```bash
